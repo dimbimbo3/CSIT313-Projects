@@ -1,2 +1,2 @@
 # CSIT313-Projects
-My projects for Fundamentals of Programming Languages at MSU
+My projects using Haskell, Java, Lua, Prolog, and Racket for Fundamentals of Programming Languages at MSU
